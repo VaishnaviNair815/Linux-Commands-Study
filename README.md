@@ -329,6 +329,8 @@ df
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/8d3b62c0-5558-4162-a2cd-ea07d45701d7)
+
 ### 30. `find` Command
 
 The `find` command is used to search for files in a directory hierarchy.
@@ -340,4 +342,8 @@ find <directory> -name <file_name>
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/74844dc1-0c8a-45d3-ac0d-93da990187ca)
+
 ## Result
+
+Linux commands are executed in the linux terminal successfully.
